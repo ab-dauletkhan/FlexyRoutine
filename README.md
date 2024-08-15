@@ -1,1 +1,4 @@
 # FlexyRoutine
+
+
+documentation in progress...
